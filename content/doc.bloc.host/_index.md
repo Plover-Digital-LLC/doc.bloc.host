@@ -1,6 +1,6 @@
 ---
 
-title: 🪴 Quartz 3.3
+title: bloc.host Docs
 
 enableToc: false
 
