@@ -33,7 +33,7 @@ To begin thank you for checking out [bloc.host](https://bloc.host). While we sup
 		- [GoDaddy](https://www.godaddy.com/help/add-an-a-record-19238)
 		- [Hover](https://help.hover.com/hc/en-us/articles/217282457-Managing-DNS-records-#h_80fc6798-a59e-4739-bbdd-1e8bdd452df0)
 		- [DigitalOcean](https://docs.digitalocean.com/products/networking/dns/how-to/manage-records/)
-- Once you have a site registered, a credit card is needed on file. This can be added right on your [cockpit](https://bloc.host/cockpit) towards the bottom. You will be charged right away for $1 for your first site. Each site from there will be an additional $1/m starting on the next pay period. If you have over 10 sites with us, you will only be charged $10/m - this is the max monthly amount we charge. Anything after 10 sites is free!
+- Once you have a site registered, a credit card is needed on file. This can be added right on your [cockpit](https://bloc.host/cockpit) towards the bottom. You will be charged right away for `$1` for your first site. Each site from there will be an additional `$1/m` starting on the next pay period. If you have over 10 sites with us, you will only be charged `$10/m` - this is the max monthly amount we charge. Anything after 10 sites is free!
 - Now that you have a site setup, and started your subscriptions, your site should be live. If it is not live immediately, try reloading your site from either the site dashboard or your cockpit. If that doesn't work try using the "Pull" and then the "Reload" option on your sites dashboard. 
 
 If you are having any issues or need further assistance with your setup, please contact us at [machines@plover.io](mailto:machines@plover.io) or join our [discord](https://discord.gg/PSYSqyBsNF)
