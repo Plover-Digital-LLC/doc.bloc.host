@@ -8,4 +8,4 @@ enableToc: false
 
   
 
-Host your static site
+Host your static site - fast and cheap. Now with quartz.
