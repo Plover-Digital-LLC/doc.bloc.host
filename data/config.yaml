@@ -22,7 +22,9 @@ description:
 page_title:
   "bloc.host docs"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/wokuno
-  - link_name: GitHub
+  - link_name: bloc.host
+    link: https://bloc.host
+  - link_name: Plover Digital
+    link: https://plover.digital
+  - link_name: GitHub (PD)
     link: https://github.com/Plover-Digital-LLC
