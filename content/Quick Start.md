@@ -1,6 +1,6 @@
 ---
 
-title: bloc.host Docs
+title: Quick Start Guide
 
 enableToc: false
 
