@@ -7,7 +7,9 @@ enableToc: false
 ---
 ## INTRO
 
-To begin thank you for checking out [bloc.host](https://bloc.host). While we support, directly hosting your domain, we reccomend using a subdomain - such as www or docs - to provide the best service new and into the future. When you add your site, a custom CNAME entry will be generated and we setup a pernament redirect from your base domain. Using this allows us to "move" where your site is located for better performance and flexibility, without needed you to constantly change the IP in your DNS service provider. Even if using the prefered CNAME option, you can choose to still point your domain to us through A and AAAA records. Since we have a redirect setup, going forward, users should be pointed to the more optimized CNAME location. For those interested in just using your domain without any subdomains, that option still works. More information on setup is below.
+To begin thank you for checking out [bloc.host](https://bloc.host). 
+
+We support directly hosting your domain, we reccomend using a subdomain - such as `www` or `docs` - to provide the best service new and into the future. When you add your site, a custom CNAME entry will be generated and we setup a pernament redirect from your base domain. Using this allows us to "move" where your site is located for better performance and flexibility, without needed you to constantly change the IP in your DNS service provider. Even if using the prefered CNAME option, you can choose to still point your domain to us through A and AAAA records. Since we have a redirect setup, going forward, users should be pointed to the more optimized CNAME location. For those interested in just using your domain without any subdomains, that option still works. More information on setup is below.
 
 ---
 
@@ -40,7 +42,7 @@ If you are having any issues or need further assistance with your setup, please 
 
 ---
 
-## Build Containers
+## Build Containers (*beta*)
 
 We currently offer a limited range of build containers for static sites. The list includes the following:
 - Hugo
@@ -50,3 +52,24 @@ We currently offer a limited range of build containers for static sites. The lis
 - Docusaurus
 
 Unlimited build time is included with your subscription. Just pick which build container you perfer right on your sites dashboard. In conjunction with our pull webhook, you can have your site updated and built in just seconds from hitting push. 
+
+
+---
+
+## Private Repository (*alpha*)
+
+At this time, we offer limited specific support for private repositories. To use a private repository, please generate a key on your site dashboard. A public key will be added to the dashboard. Please add this to your git provider as a deploy key, or ssh key. Try to pull your site again.
+
+Current support:
+- SSH based
+- Generated per-site deploy key
+
+Future changes:
+- Expanded git support
+- Github oauth support
+- Gitlab oauth support
+- streamline git clone/pull implementation
+
+`* If you want to use a private repo your url needs to be in the format git@[host]:[repo], (should not contain https://)`
+`** If you are not using a private repo, delete your deploy key and use a public repo to ensure proper cloning`
+
