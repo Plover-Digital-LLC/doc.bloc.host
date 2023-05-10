@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c5b6e4e20fe7f7af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "472bd40db9c6b837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9010db9fb54c5538",
             "type": "leaf",
             "state": {
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,9 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be9065d33aea5a5",
+  "active": "472bd40db9c6b837",
   "lastOpenFiles": [
-    "_index.md",
-    "Quick Start.md"
+    "Private Repository.md",
+    "Quick Start.md",
+    "Build Container.md",
+    "_index.md"
   ]
 }
