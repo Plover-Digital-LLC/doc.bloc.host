@@ -18,4 +18,4 @@ Future changes:
 - streamline git clone/pull implementation
 
 `* If you want to use a private repo your url needs to be in the format git@[host]:[repo], (should not contain https://)`
-`** If you are not using a private repo, delete your deploy key and use a public repo to ensure proper cloning
+`** If you are not using a private repo, delete your deploy key and use a public repo to ensure proper cloning`
