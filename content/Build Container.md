@@ -10,7 +10,6 @@ We currently offer a limited range of build containers for static sites. The lis
 - Hugo
 	- Quartz
 - Jekyll
-- Astro
-- Docusaurus
+- Zola
 
 Unlimited build time is included with your subscription. Just pick which build container you perfer right on your sites dashboard. In conjunction with our pull webhook, you can have your site updated and built in just seconds from hitting push. 
